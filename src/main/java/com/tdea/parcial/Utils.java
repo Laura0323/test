@@ -6,9 +6,9 @@ public class Utils {
         if (isValidHour(hour)) {
             if (hour >= 0 && hour < 6) {
                 return "Night";
-            } else if (hour < 12) {
+            } else if (hour < 12 && hour > 6) {
                 return "Morning";
-            } else if (hour < 18) {
+            } else if (hour > 12 && hour < 18) {
                 return "Afternoon";
             } else {
                 return "Evening";

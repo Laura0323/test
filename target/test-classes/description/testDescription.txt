@@ -1,0 +1,9 @@
+ShouldReturnNight() = Este método debería retornar "Night" al ingresar el valor 2, ya que en el condicional esta definido
+entre los números 0 y 6, por lo tanto el test debe ser exitoso.
+
+ShouldNotReturnMorning() = Este método no debería retornar "Morning" ya que el valor ingresado (13) no esta en el rango establecido en el condicional.
+
+ShouldReturnAfternoon() =  Este método debería de retornar "Afternoon" dado que el valor que se ingresa (15) está dentro del rango del condicional.
+
+
+
