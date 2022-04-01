@@ -1,0 +1,9 @@
+Prueba manual
+
+En el video se puede visualizar la prueba manual "Dynamic Loading", en la cual aparecen dos links para darle click a un botón el cual comienza a simular la carga
+de un elemento, y una vez finalizada la carga este muestra un mensaje: "Hello world!"
+
+Prueba automática
+
+En el video se puede visualizar la prueba automatizada "Forgot Password", en la que aparece una barra para ingresar el correo electrónico y así poder recuperar la
+contraseña, luego da click en el botón para ejecutar esta acción, posteriormente nos lleva a otra página y la prueba es exitosa.

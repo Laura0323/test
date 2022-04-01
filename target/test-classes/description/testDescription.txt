@@ -5,5 +5,7 @@ ShouldNotReturnMorning() = Este método no debería retornar "Morning" ya que el
 
 ShouldReturnAfternoon() =  Este método debería de retornar "Afternoon" dado que el valor que se ingresa (15) está dentro del rango del condicional.
 
+ShouldNotReturnEvening() = Este método no debería retornar "Evening" porque el valor ingresado es (10), ya que este valor no esta establecido en el condicional.
 
+ShouldReturnFalse() = Este método debería de retornar "false" ya que el (25) no es una hora válida, dado que sale de los valores que están establecidos en la condición.
 
