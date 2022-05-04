@@ -1,9 +1,19 @@
-Prueba manual
+Prueba manual 1
 
 En el video se puede visualizar la prueba manual "Dynamic Loading", en la cual aparecen dos links para darle click a un botón el cual comienza a simular la carga
 de un elemento, y una vez finalizada la carga este muestra un mensaje: "Hello world!"
 
-Prueba automática
+Prueba manual 2
+ En el video se puede visualizar la prueba manual "File Downloader", en la cual aparecen seis links para descargar archivos con diferentes extensiones,
+ en este caso se descarga el archivo "sample.pdf" y se abre un archivo PDF.
+
+Prueba automática 1
 
 En el video se puede visualizar la prueba automatizada "Forgot Password", en la que aparece una barra para ingresar el correo electrónico y así poder recuperar la
 contraseña, luego da click en el botón para ejecutar esta acción, posteriormente nos lleva a otra página y la prueba es exitosa.
+
+Prueba automática 2
+
+En el video se puede visualizar la prueba automatizada "JavaScript Alerts", en la cual aparecen tres botones, en este caso se le da click al primer boton.
+el cual muestra una ventana emergente con el mensaje de alerta, posteriormente en la parte de resultado aparece un mensaje diciendo que el click que se hizo en la
+alerta fue exitoso.
